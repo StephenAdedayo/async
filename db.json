@@ -1,0 +1,54 @@
+{
+  "blogs": [
+    {
+      "title": "Mastering React State and all other hooks Management",
+      "body": "State management is a crucial aspect of building React applications. Learn about the various techniques and libraries available to manage state effectively.",
+      "author": "Jane Smith",
+      "id": "2"
+    },
+    {
+      "title": "A Guide to RESTful APIs",
+      "body": "RESTful APIs are the backbone of modern web applications. This blog provides a comprehensive guide on how to design and implement RESTful services.",
+      "author": "Alice Johnson",
+      "id": "3"
+    },
+    {
+      "title": "Ronaldo Better Than Messi",
+      "body": "Messi is a good player but ronaldo will always be the beast of the football, the goat for forever",
+      "author": "Temiloluwa",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "img": "https://example.com/image5.jpg",
+      "title": "CSS Grid vs Flexbox",
+      "body": "CSS Grid and Flexbox are two powerful layout systems. Understand the differences and when to use each in your web design projects.",
+      "author": "Carol Brown"
+    },
+    {
+      "title": "Understanding the DOM",
+      "body": "The Document Object Model (DOM) is essential for web development. Learn how to manipulate the DOM to create dynamic and interactive web pages.",
+      "author": "David Green",
+      "id": "6"
+    },
+    {
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a superset of JavaScript that adds static types. This blog introduces TypeScript and its benefits for large-scale applications.",
+      "author": "Eva White",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "img": "https://example.com/image8.jpg",
+      "title": "Building a Simple API with Express.js",
+      "body": "Express.js is a popular framework for building APIs with Node.js. Follow this step-by-step guide to create a simple API using Express.",
+      "author": "Frank Black"
+    },
+    {
+      "title": "React Hooks: A Deep Dive",
+      "body": "React Hooks have revolutionized how we write React components. This blog takes a deep dive into hooks and how to use them effectively.",
+      "author": "Grace Park",
+      "id": "9"
+    }
+  ]
+}
